@@ -5,8 +5,6 @@
 #Visual Studio files
 [Oo]bj
 [Bb]in
-Site/bin/*
-Site/obj/*
 *.ReSharper.user
 *.suo
 _ReSharper.*/
