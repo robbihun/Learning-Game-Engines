@@ -64,7 +64,7 @@ namespace GameFramework
             _stateManager.AddState("fps", new FPSTestState(_textureManager));
 
             // Start the default game state
-            _stateManager.ChangeState("fps");
+            _stateManager.ChangeState("splash");
         }
 
         private void InitializeTextureManager()
